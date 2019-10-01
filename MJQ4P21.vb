@@ -1,10 +1,9 @@
 Module Module1
 
     Sub Main()
-        Dim NewString As String
+        Dim NewString, NextChar As String
         Dim Index As Integer 
         Dim AfterSpace As Boolean
-        Dim NextChar As Char
     
 
 
