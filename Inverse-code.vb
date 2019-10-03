@@ -21,8 +21,8 @@
             Str2 = Str2 & alph1
         Next
 
-        Console.WriteLine(Str2)
-        Console.WriteLine(" ")
+        Console.Write(Str2)
+      
 
 
         Console.ReadKey()
